@@ -1,4 +1,7 @@
-# XrayR
+# X射线 已过渡-库转为如下
+https://github.com/Netpos-Dinmi/XrayR-NOW
+AND
+https://github.com/Misaka-blog/XrayR
 
 A Xray backend framework that can easily support many panels.
 
